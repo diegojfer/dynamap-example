@@ -1,0 +1,2 @@
+rootProject.name = "dynamap-example"
+
